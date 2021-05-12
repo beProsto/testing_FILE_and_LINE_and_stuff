@@ -1,2 +1,2 @@
-g++ main.cpp -o app.x86_64
+g++ main.cpp -o app
 ./app
